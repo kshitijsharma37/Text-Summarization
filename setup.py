@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Text-Summarization"
 AUTHOR_USER_NAME = "kshitijsharma37"
-SRC_REPO = 'Text-Summarization'
+SRC_REPO = 'Text_Summarization'
 AUTHOR_EMAIL = "kshitij.sharma37@outlook.com"
 
 setuptools.setup(
